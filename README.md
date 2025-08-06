@@ -1,9 +1,8 @@
 # Elevate Labs Internship Tasks
 
-This repo contains all 45 tasks from Elevate Labs Data Analyst Internship.
+This repository contains all 45 tasks completed as part of the Elevate Labs Data Analyst Internship Program.
 
-## Tasks
-- [Task 1 - Data Cleaning](task-01/)
-- [Task 2 - Exploratory Data Analysis](task-02/)
-- ...
+## Tasks Completed
 
+- [Task 1: Data Cleaning – Netflix Dataset](task-01/)
+- [Task 2: Data Visualization – Superstore Dashboard](task-02/)
